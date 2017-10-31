@@ -1,0 +1,36 @@
+header {
+    margin-bottom: 40px;
+    background-color: rgb(239, 188, 68);
+}
+body {
+    font-family: "Roboto", sans-serif;
+    color: #252525;
+}
+.nav-title{
+    margin-bottom: 0;
+    line-height: 1;
+}
+div {
+    display: block;
+}
+.nav-par {
+    margin-top: 0.5em;
+}
+.box {
+    border: 1px solid #E5E5E5;
+    margin-bottom: 20px;
+}
+.content {
+    padding: 20px;
+}
+.content p {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.image {
+    width: 100%;
+}
